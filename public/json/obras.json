@@ -1,0 +1,356 @@
+[
+    {
+        "id":1,
+        "ObraSocial": "ACTIVA SALUD (OSFATLYF)",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    },
+    {
+        "id":2,
+        "ObraSocial": "AMMFA",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "ORDEN 60 DIAS",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":3,
+        "ObraSocial": "APRES",
+        "BajaComplejidad": "PLANES : AL/CONTROL: SI - EL RESTO DE LOS PLANES NO",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":4,
+        "ObraSocial": "APSOT",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":5,
+        "ObraSocial": "ASOCIACION MUTUAL SANCOR",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "AUTORIZACION DESDE LA PAGINA DE SANCOR",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":6,
+        "ObraSocial": "AVALIAN (ACA SALUD)",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":7,
+        "ObraSocial": "BANCO PROVINCIA (AMEBPBA)",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "NO",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":8,
+        "ObraSocial": "CAJA DE ESCRIBANOS - COLEGIO DE ESCRIBANOS",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "NO",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":9,
+        "ObraSocial": "CASA",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "NO",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":10,
+        "ObraSocial": "COMEI",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":11,
+        "ObraSocial": "CORTE SUPREMA",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "NO",
+        "Notas": "TIENE ORDEN PROPIA",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":12,
+        "ObraSocial": "FEDERADA SALUD",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":13,
+        "ObraSocial": "FUTBOLISTAS ARGENTINOS AGREMIADOS",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    },  {
+        "id":14,
+        "ObraSocial": "GALENO ARGENTINA",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "NO",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":15,
+        "ObraSocial": "INSTITUTO SOCIAL DE LAS FUERZAS ARMADAS",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":16,
+        "ObraSocial": "IOMA",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":17,
+        "ObraSocial": "IOSFA",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "GASTOS CORTADOS",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":18,
+        "ObraSocial": "JERARQUICO SALUD",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":19,
+        "ObraSocial": "LUIS PASTEUR",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "NO",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":20,
+        "ObraSocial": "MEDICUS",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "NO",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":21,
+        "ObraSocial": "MEDIFE",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "NO",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":22,
+        "ObraSocial": "OSFATUM/ OBRA SOCIAL DE LA FEDERACION ARG A DEL TRABAJADO DE LAS UNIV. NAC",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":23,
+        "ObraSocial": "OMINT",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "Nº CARNET EMPIEZA CON 4:SI / Nº CARNET EMPIEZA CON 1 : NO ",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    },{
+        "id":24,
+        "ObraSocial": "OSCAP",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":25,
+        "ObraSocial": "ACEROS PARANA (OSAP)",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":26,
+        "ObraSocial": "PROPAGANDA MEDICA (OSAPM)",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":27,
+        "ObraSocial": "OSDE",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "SE AUTORIZA POR APLIGEM",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":28,
+        "ObraSocial": "OSPE",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "425 SI - RESTO SOLO 881842/881840B(DOPPLER CARDIACO FETAL Y OBSTETRICO)",
+        "Notas": "NO PLAN PMO NI A 411",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":29,
+        "ObraSocial": "OSPERYHRA",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "TIENE DIF MUY ALTOS",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":30,
+        "ObraSocial": "OSPFESIQYP (QUIMICOS Y PETROQUIMICOS)",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":31,
+        "ObraSocial": "OSPIDA (PERSONAL DE IMPRENTA)",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":32,
+        "ObraSocial": "INTEGRAL SALUD (OSPOCE)",
+        "BajaComplejidad": "SI // PLAN ROBLE NO",
+        "AltaComplejidad": "SI // PLAN ROBLE NO",
+        "Notas": "PLAN CAIBO TIENE DIF ",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":33,
+        "ObraSocial": "OSPPRA",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":34,
+        "ObraSocial": "OPSA -A ATSA - LA PLATA",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "TIENE DIF",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":35,
+        "ObraSocial": "PAMI - VETERANOS DE GUERRA",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":36,
+        "ObraSocial": "PERSONAL DE FARMACIA",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":37,
+        "ObraSocial": "PREVENCION SALUD S.A",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":38,
+        "ObraSocial": "PRIMEDIC PLAN A , BASIC Y CA ",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "TIENE DIF CAT B Y C ",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":39,
+        "ObraSocial": "PRIMEDIC B, B1 Y SUPERIOR",
+        "BajaComplejidad": "180101 AL 180118 Y 881807 : NO - 180112,881804,881808 : SI",
+        "AltaComplejidad": "SI",
+        "Notas": "TIENE DIF CAT C",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":40,
+        "ObraSocial": "PRIMEDIC PLAN ELITE",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "881840B NO - RESTO SI ",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":41,
+        "ObraSocial": "RED ARGENTINA DE SALUD (RAS)",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":42,
+        "ObraSocial": "SADAIC",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":43,
+        "ObraSocial": "SCIS",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "SOLO PLANES SC250-300-500-600-1100",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":44,
+        "ObraSocial": "SUPERINTENDENCIA DE BIENESTAR DE LA POLICIA FEDERAL ARGETNINA ",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":45,
+        "ObraSocial": "SWISS MEDICAL",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "NO",
+        "Notas": "",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":46,
+        "ObraSocial": "UNION PERSONAL ACORD SALUD",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "NO PLAN PMO NI MONOTRIBUTO",   
+        "AmpOApid":"AMP"     
+    }, {
+        "id":47,
+        "ObraSocial": "OSPEDYC",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "TIENE DIF",   
+        "AmpOApid":"APID"     
+    }, {
+        "id":48,
+        "ObraSocial": "OSDOP",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI",
+        "Notas": "",   
+        "AmpOApid":"APID"     
+    }, {
+        "id":49,
+        "ObraSocial": "TALP",
+        "BajaComplejidad": "NO",
+        "AltaComplejidad": "NO",
+        "Notas": "PASAJERO :DNI - CHOFER : DNI,CREDENCIAL O RECIBO DE SUELDO ",   
+        "AmpOApid":"APID"     
+    },
+    {
+        "id":50,
+        "ObraSocial": "TV SALUD",
+        "BajaComplejidad": "SI",
+        "AltaComplejidad": "SI C/ PRESUPUESTO AUTORIZADO",
+        "Notas": "",   
+        "AmpOApid":"APID"     
+    }
+
+]
