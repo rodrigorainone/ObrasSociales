@@ -1,5 +1,6 @@
 body{
   background-color: #c4d3f6;
+  font-family:Arial, Helvetica, sans-serif;
 
 }
 
@@ -11,6 +12,7 @@ p{
   
   color:#666;
   background-color: white;
+  font-weight: bold;
 
   
   

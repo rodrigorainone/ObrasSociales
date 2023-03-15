@@ -72,10 +72,10 @@
         "AmpOApid":"AMP"     
     }, {
         "id":11,
-        "ObraSocial": "CORTE SUPREMA",
+        "ObraSocial": "CORTE SUPREMA - PODER JUDICIAL",
         "BajaComplejidad": "NO",
         "AltaComplejidad": "NO",
-        "Notas": "TIENE ORDEN PROPIA",   
+        "Notas": "TIENE ORDEN PROPIA - LLEVA VALIDACION ONLINE",   
         "AmpOApid":"AMP"     
     }, {
         "id":12,
@@ -233,7 +233,7 @@
         "AmpOApid":"AMP"     
     }, {
         "id":34,
-        "ObraSocial": "OPSA -A ATSA - LA PLATA",
+        "ObraSocial": "OPSA - ATSA ",
         "BajaComplejidad": "SI",
         "AltaComplejidad": "SI",
         "Notas": "TIENE DIF",   
