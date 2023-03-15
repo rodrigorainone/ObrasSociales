@@ -45,6 +45,7 @@ p{
   overflow: hidden;
   border-radius: 15px 15px 15px 15px;
   vertical-align:middle;
+  caret-color: transparent;
   
   
   
@@ -61,6 +62,8 @@ p{
   vertical-align:middle;  
   padding-bottom: 5px;
   padding-left: 5px;
+  
+  
 }
 
 .BordeTabla:last-child{
