@@ -4,7 +4,7 @@ const Item = ({data}) => {
     return (
         <>
          
-               <tr>      
+               <tr className='BordeTabla'>      
                       <td>{data.id}</td>            
                       <td>{data.ObraSocial}</td>
                       <td>{data.BajaComplejidad}</td>

@@ -1,38 +1,73 @@
-.App {
-  text-align: center;
+body{
+  background-color: #c4d3f6;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+p{
+  margin:0px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.BordeTabla{
+  
+  color:#666;
+  background-color: white;
+
+  
+  
+  
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.BordeTabla td{
+  height: 50px;
 }
 
-.App-link {
-  color: #61dafb;
+.BordeTabla:hover{
+  background-color: rgb(226, 223, 223);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.colorArriba{
+  background-color: #6c7ae0;  
+  color:white;
+  
+  
+  
 }
+.colorArriba tr{
+  vertical-align:middle;
+  
+  
+}
+
+
+.table{
+  
+  width: 70%;
+  overflow: hidden;
+  border-radius: 15px 15px 15px 15px;
+  vertical-align:middle;
+  
+  
+  
+  
+}
+
+.Buscar{
+  font-size: 15px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.Buscarinput{
+  vertical-align:middle;  
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
+
+.BordeTabla:last-child{
+  border:transparent;
+}
+
+
+
+
+

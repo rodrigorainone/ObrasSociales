@@ -24,15 +24,16 @@ const ObrasSoc = () => {
     }, [buscar]);
     return (
         <div>
-            <div className='d-flex justify-content-center'>
-                <p>Buscar : </p>
-                <input type="search" onChange={(e)=>setbuscar(e.target.value.toUpperCase())} />
-                <label htmlFor=""></label>
+            <div className='d-flex justify-content-center align-items-start mt-5 mb-4 '>
+                <label htmlFor="" className='Buscar'>Buscar : </label>
+                <input className='Buscarinput' type="search" onChange={(e)=>setbuscar(e.target.value.toUpperCase())} />
+                
             </div>
             
-             <table className="table">
-                <thead>
-                    <tr>
+            <div className='d-flex justify-content-center'>
+            <table className="table">
+                <thead className="colorArriba">
+                    <tr className=''>
                         <th scope="col">#</th>
                         <th scope="col">Nombre</th>
                         <th scope="col">Baja Complejidad</th>
@@ -41,10 +42,12 @@ const ObrasSoc = () => {
                         <th scope="col">AMP o Apid</th>
                     </tr>
                 </thead>  
-                <tbody>
+                <tbody className='textoTabla'>
                 {obras}
                </tbody>     
-            </table>            
+            </table> 
+            </div>
+                        
         </div>
     );
 }
